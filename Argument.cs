@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+//
 namespace CollectionExtensions
 {
+    
     /// <summary>
     /// Represents a validator that simplifies checking method and constructor arguments and throws the 
     /// appropriate exceptions.
